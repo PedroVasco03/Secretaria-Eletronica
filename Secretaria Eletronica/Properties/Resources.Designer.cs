@@ -63,6 +63,76 @@ namespace Secretaria_Eletronica.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _1ad672ce_6496_45ed_a365_757b9586fb60 {
+            get {
+                object obj = ResourceManager.GetObject("1ad672ce-6496-45ed-a365-757b9586fb60", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _40a52873_d576_4cfa_a2be_00448d8dfb7d {
+            get {
+                object obj = ResourceManager.GetObject("40a52873-d576-4cfa-a2be-00448d8dfb7d", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap back_to_50px {
+            get {
+                object obj = ResourceManager.GetObject("back_to_50px", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Captura_de_Tela__146_ {
+            get {
+                object obj = ResourceManager.GetObject("Captura de Tela (146)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Captura_de_Tela__146____Copia {
+            get {
+                object obj = ResourceManager.GetObject("Captura de Tela (146) - Copia", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Captura_de_Tela__146____Copia___Copia {
+            get {
+                object obj = ResourceManager.GetObject("Captura de Tela (146) - Copia - Copia", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Captura_de_Tela__147____Copia {
+            get {
+                object obj = ResourceManager.GetObject("Captura de Tela (147) - Copia", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap circled_right_20px {
             get {
                 object obj = ResourceManager.GetObject("circled_right_20px", resourceCulture);
@@ -86,6 +156,26 @@ namespace Secretaria_Eletronica.Properties {
         internal static System.Drawing.Bitmap emmanuel_ikwuegbu_VC6MGt9ZoBA_unsplash {
             get {
                 object obj = ResourceManager.GetObject("emmanuel-ikwuegbu-VC6MGt9ZoBA-unsplash", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Engenheiros_em_capacetes_de_pé_pela_fábrica___Foto_Grátis {
+            get {
+                object obj = ResourceManager.GetObject("Engenheiros em capacetes de pé pela fábrica _ Foto Grátis", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap f5fdeeba_9342_4bde_a835_4c5f2d7b5770 {
+            get {
+                object obj = ResourceManager.GetObject("f5fdeeba-9342-4bde-a835-4c5f2d7b5770", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -153,6 +243,16 @@ namespace Secretaria_Eletronica.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap laboratory_g1de6c91c8_640 {
+            get {
+                object obj = ResourceManager.GetObject("laboratory-g1de6c91c8_640", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap menu_30px {
             get {
                 object obj = ResourceManager.GetObject("menu_30px", resourceCulture);
@@ -176,6 +276,66 @@ namespace Secretaria_Eletronica.Properties {
         internal static System.Drawing.Bitmap menu_50px1 {
             get {
                 object obj = ResourceManager.GetObject("menu_50px1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap mimi_thian_vdXMSiX_n6M_unsplash {
+            get {
+                object obj = ResourceManager.GetObject("mimi-thian-vdXMSiX-n6M-unsplash", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap undraw_Destination_re_sr74 {
+            get {
+                object obj = ResourceManager.GetObject("undraw_Destination_re_sr74", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap undraw_Educator_re_ju47 {
+            get {
+                object obj = ResourceManager.GetObject("undraw_Educator_re_ju47", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap undraw_personal_information_re_vw8a {
+            get {
+                object obj = ResourceManager.GetObject("undraw_personal_information_re_vw8a", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap undraw_Time_management_re_tk5w {
+            get {
+                object obj = ResourceManager.GetObject("undraw_Time_management_re_tk5w", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap undraw_Work_time_re_hdyv {
+            get {
+                object obj = ResourceManager.GetObject("undraw_Work_time_re_hdyv", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
